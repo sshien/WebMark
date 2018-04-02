@@ -14,6 +14,7 @@
 + [张鑫旭大神](http://www.zhangxinxu.com/wordpress/) --- CSS专业博客
 + [学习资料收集](https://cnodejs.org/topic/56ef3edd532839c33a99d00e) --- 学习资料整理很全的网址
 + [奇舞周刊](https://weekly.75team.com/) --- 每周一更，非常棒
++ [资料收录大全](https://www.kancloud.cn/jikeytang/qq/81145) --- 一个开发群收录的资料，很好很全面细致
 #### 代码编程规范类
 + [代码规范](http://alloyteam.github.io/CodeGuide/#js-variable-naming) --- JavaScript 编写规范
 + [各类代码规范](http://sideeffect.kr/popularconvention#javascript)
