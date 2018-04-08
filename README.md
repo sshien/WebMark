@@ -23,4 +23,6 @@
 #### 三方库
 + [JavaScript 桌面构建库](http://electronjs.org/) --- 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用；（Atom就是用这个做的哦）
 + [Docsigy 中文文档 ](https://docsify.js.org/#/zh-cn/) --- 文档网站生成工具
++ [Store.js web本地缓存](https://github.com/marcuswestin/store.js) --本地缓存，兼容性高
++ [Momentjs 时间插件](http://momentjs.cn/) --一个非常好的时间插件
 
